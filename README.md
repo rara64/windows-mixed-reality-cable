@@ -19,5 +19,5 @@ Due to damaged cables, dozens of Mixed Reality headsets end up in the trash. I w
 
 ![](https://github.com/rara64/windows-mixed-reality-usb-c/blob/main/img/cable-replacement.jpg)
 
-I created the plug extender and the corresponding PCB with USB and HDMI ports. Both seem to be OK, but don't fully work with the headset - there is a weird pattern on the headset display.
+I created the plug extender and the corresponding PCB with USB and HDMI ports. Both seem to be OK, but don't fully work with the headset - there is something that resembles a testing pattern on the headset display.
 My headsets for testing seem to be broken. PCB designs are available to download, but so far remain non-functional. [More here](https://github.com/rara64/windows-mixed-reality-usb-c)
