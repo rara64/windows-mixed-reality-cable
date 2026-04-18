@@ -11,9 +11,22 @@ Due to damaged cables, dozens of Mixed Reality headsets end up in the trash. I w
 
 # Roadmap
 - ✅ ~~Create a plug extender board that will extend the 30-pin connector inside the headset outside the device~~
-- [?] Create a matching PCB with USB+HDMI ports that will mount inside a 3D printed case on the headset's band 
+- ✅ Create a matching PCB with USB+HDMI ports
+- [-] Create an improved version ready for use
 
 # Progress
+
+### April 2026
+
+![](https://github.com/rara64/windows-mixed-reality-usb-c/blob/main/img/working-headset.gif)
+
+As it turns out, my current design works! 🎉
+
+It really looked like a broken headset, but it behaved like this because of my Windows settings. Really annoying...
+Inside Mixed Reality settings, there is an option called "Fade to gray when positional tracking is lost" and I just had to turn it off.
+
+I still have to make a final usable design for the HDMI+USB combo, but the problem is that I don't have as much time as last year.
+It might take me longer than expected, and I'll try to focus on the USB C version for now.
 
 ### August 2025
 
