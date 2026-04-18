@@ -22,11 +22,13 @@ Due to damaged cables, dozens of Mixed Reality headsets end up in the trash. I w
 
 As it turns out, my current design works! 🎉
 
-It really looked like a broken headset, but it behaved like this because of my Windows settings. Really annoying...
+It really looked like my testing headsets were broken, but they behaved like this because of my Windows settings. Really annoying...
 Inside Mixed Reality settings, there is an option called **"Fade to gray when positional tracking is lost"** and I just had to turn it off.
 
 I still have to make a final usable design for the HDMI+USB combo, but the problem is that I don't have as much time as last year.
 It might take me longer than expected, and I'll try to focus on the USB C version for now.
+
+Sorry for the delay.
 
 ### August 2025
 
